@@ -28,4 +28,5 @@ Small project integrating screen, lm393, and bmp280 control.
 
 ### Assembly
 _case-top-cssw-2023.stl and case-bottom-cssw-2023.stl_
+
 Simple case for 3D printing, top section and bottom section
