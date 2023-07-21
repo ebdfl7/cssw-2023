@@ -10,7 +10,7 @@ This beiefly details the essense of our systems development (aka Childrens's Spa
 4. OLED Screen 128 x 64
    
 ### Circuit Diagrams
-_cssw.2023.v02.pdf_
+_Refer to cssw.2023.v02.pdf_
 
 1. Component Pins
 2. Soil Moisture Sensor Project
@@ -27,6 +27,11 @@ Small project integration screen and bmp280 control.
 Small project integrating screen, lm393, and bmp280 control.
 
 ### Assembly
-_case-top-cssw-2023.stl and case-bottom-cssw-2023.stl_
+1. case-top-cssw-2023.stl
+2. case-bottom-cssw-2023.stl
+
+![image](https://github.com/ebdfl7/cssw-2023/blob/main/case-top-and-bottom.png)
 
 Simple case for 3D printing, top section and bottom section
+
+![image](https://github.com/ebdfl7/cssw-2023/blob/main/diagram.png)
