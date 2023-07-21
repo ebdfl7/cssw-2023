@@ -10,7 +10,6 @@ U8G2_SH1106_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE);
 
 void setup() {
   pinMode(LM393Power, OUTPUT);
-  //digitalWrite(LM393Pin, LOW);
   digitalWrite(LM393Power, LOW);
   
   Serial.begin(9600);
