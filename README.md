@@ -1,6 +1,12 @@
 # Children’s Supervillain Science Workshop
 July 10 - July 21, 2023 * Happy Valley, Lenoir, NC *  By Field Laboratory Seven
 
+### Components
+1. Arduino Nano v3
+2. LM393
+3. BMP280
+4. OLED Screen 128 x 64
+5. 
 ### Circuit Diagrams
 _cssw.2023.v02.pdf_
 
@@ -9,11 +15,15 @@ _cssw.2023.v02.pdf_
 3. Temperature & Atmospheric Pressure Sensor Project
 4. Temperature, Atmospheric Pressure, & Soil Moisture Sensor Project
 
-## Project 1: name_plus_lm393.ino
+### Project 1: name_plus_lm393.ino
 Small project integrating screen and lm393 control.
 
-## Project 2: name_plus_bmp280.ino
+### Project 2: name_plus_bmp280.ino
 Small project integration screen and bmp280 control.
 
-## Project 3: bmp280_plus_lm393.ino
+### Project 3: bmp280_plus_lm393.ino
 Small project integrating screen, lm393, and bmp280 control.
+
+### Assembly
+_case-top-cssw-2023.stl and case-bottom-cssw-2023.stl_
+Simple case for 3D printing, top section and bottom section
