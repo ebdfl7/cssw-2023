@@ -1,12 +1,14 @@
 # Children’s Supervillain Science Workshop
-July 10 - July 21, 2023 * Happy Valley, Lenoir, NC *  By Field Laboratory Seven
+July 10 - July 21, 2023 * Happy Valley, Lenoir, NC *  Sponsored By Field Laboratory Seven
+
+This is the essense of our systems development (aka Childrens's Space Laser) activities. THese activities were organized and executed by _Brian Duncan, Amy Jennings, Kameron Duncan, Amanda K, and Oseremhen Ewaleifoh_
 
 ### Components
 1. Arduino Nano v3
 2. LM393
 3. BMP280
 4. OLED Screen 128 x 64
-5. 
+   
 ### Circuit Diagrams
 _cssw.2023.v02.pdf_
 
