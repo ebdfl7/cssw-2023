@@ -1,5 +1,5 @@
 # Children’s Supervillain Science Workshop
-July 10 - July 21, 2023 * Happy Valley, Lenoir, NC
+July 10 - July 21, 2023 * Happy Valley, Lenoir, NC *  By Field Laboratory Seven
 
 ### Circuit Diagrams
 _cssw.2023.v02.pdf_
